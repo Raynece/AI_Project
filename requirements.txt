@@ -1,0 +1,9 @@
+openai
+langchain
+python-dotenv
+sqlite3
+requests
+pandas
+langchain-community
+transformers
+pysqlite3
