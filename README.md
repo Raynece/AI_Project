@@ -14,8 +14,8 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/Raynece/chatbot-project.git
-    cd chatbot-project
+    git clone https://github.com/Raynece/AI_Project.git
+    cd AI_Project
     ```
 
 2. Создайте виртуальное окружение:
